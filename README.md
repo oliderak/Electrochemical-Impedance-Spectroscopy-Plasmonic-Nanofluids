@@ -157,4 +157,25 @@ English-language schematic figures are provided in `docs/figures/`. Verbatim cro
 
 ## Academic reference
 
-Oliverio Castillo Rocha, *Analísis de la respuesta electrica de ciclos térmicos inducidos por luz en nanofluídos plasmónicos.*, undergraduate thesis, Universidad Autónoma de Querétaro, Facultad de Ingeniería, Ingeniería Física. See [`docs/thesis_reference.md`](docs/thesis_reference.md) for the bibliographic details available in the supplied PDF. For upload instructions, see [`docs/github_upload.md`](docs/github_upload.md).
+
+This repository contains the computational tools developed in support of the following undergraduate research thesis:
+
+**Original Title:** Análisis de la respuesta eléctrica de ciclos térmicos inducidos por luz en nanofluidos plasmónicos.
+
+
+**Author:** Oliverio Castillo Rocha.
+
+**Degree:** Engineering Physics (Undergraduate Thesis).
+
+**Institution:** Universidad Autónoma de Querétaro .
+
+**Faculty:** Facultad de Ingeniería.
+
+**Thesis Director:** Dr. Rufino Nava Mendoza.
+
+**Co-Director:** Dr. Jorge Luis Domínguez Juárez.
+
+**Institutional Repository:**  
+https://ri-ng.uaq.mx/handle/123456789/7860
+
+The thesis provides the theoretical and experimental foundation for the data acquisition procedures, complex impedance calculations, and electrical circuit simulations implemented in this repository. Please refer to the original thesis for the complete experimental methodology and scientific background.
