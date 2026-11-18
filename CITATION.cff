@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the undergraduate thesis listed in docs/thesis_reference.md and acknowledge the repository author." 
+title: "Analísis de la respuesta electrica de cliclos térmicos inducidos por luz en nanofluídos plasmónicos"
+authors:
+  - family-names: "Castillo Rocha"
+    given-names: "Oliverio"
+type: software
